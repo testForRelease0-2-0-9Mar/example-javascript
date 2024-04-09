@@ -3,7 +3,7 @@ test12346
 
 An example node project to demonstrate [srcclr](https://www.srcclr.com) scans.
 
-## Try me!1234566
+## Try me!12345667
 
 ```
 brew tap srcclr/srcclr
